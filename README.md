@@ -16,6 +16,7 @@ I build LLM systems and space software end to end, and I like explaining them on
 |---|---|
 | [**OrbitGuard Defence**](https://github.com/raultovar-space/orbitguard-defence) · [live demo](https://raultovar-space.github.io/orbitguard-defence/) | Space domain awareness console: conjunction screening of 10,000+ objects, collision probability, avoidance-burn planning, ASAT and GNSS-loss resilience scenarios. HackYeah 2026, Defence track. |
 | [**TESS Planet Hunt**](https://github.com/raultovar-space/tess-planet-hunt) | Automated exoplanet search on NASA TESS data: Transit Least Squares search, 10-step vetting chain, TRICERATOPS statistical validation, unattended overnight orchestration. |
+| [**Neural Cortex**](https://github.com/raultovar-space/neural-cortex) · [live demo](https://raultovar-space.github.io/neural-cortex/) | Real-time 3D visualization of synaptic activity across seven brain regions: 15,000 cortex points and 730 neurons in three.js. |
 
 ## Tools I use
 
